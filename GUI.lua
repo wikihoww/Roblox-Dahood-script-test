@@ -70,7 +70,7 @@ local LastingBullets = Instance.new("TextButton")
 local Stamina = Instance.new("TextButton")
 local Spin = Instance.new("TextButton")
 local Unban = Instance.new("TextButton")
-local HighsensUsers = Instance.new("TextButton")
+local SwagUsers = Instance.new("TextButton")
 local LockTools = Instance.new("TextButton")
 local Invisible = Instance.new("TextButton")
 local InfTools = Instance.new("TextButton")
@@ -116,7 +116,7 @@ local Frame_2 = Instance.new("Frame")
 local CrashServerButton = Instance.new("TextButton")
 
 --Properties:
-Swagmode.Name = "Highsens"
+Swagmode.Name = "Swagmode"
 Swagmode.Parent = game.CoreGui
 Swagmode.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
