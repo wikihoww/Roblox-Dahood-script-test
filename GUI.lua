@@ -116,19 +116,19 @@ local Frame_2 = Instance.new("Frame")
 local CrashServerButton = Instance.new("TextButton")
 
 --Properties:
-Swagmode.Name = "Swagmode"
+Swagmode.Name = "Highsens"
 Swagmode.Parent = game.CoreGui
 Swagmode.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
-SwagmodeFrame.Name = "SwagmodeFrame"
-SwagmodeFrame.Parent = Swagmode
+SwagmodeFrame.Name = "HighsensFrame"
+SwagmodeFrame.Parent = Highsens
 SwagmodeFrame.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
 SwagmodeFrame.BorderSizePixel = 0
 SwagmodeFrame.Position = UDim2.new(0.212884605, 0, 0.190036908, 0)
 SwagmodeFrame.Size = UDim2.new(0, 605, 0, 336)
 
 MenuFrame.Name = "MenuFrame"
-MenuFrame.Parent = SwagmodeFrame
+MenuFrame.Parent = HighsensFrame
 MenuFrame.BackgroundColor3 = Color3.fromRGB(10, 10, 10)
 MenuFrame.BorderSizePixel = 0
 MenuFrame.Size = UDim2.new(0, 155, 0, 336)
